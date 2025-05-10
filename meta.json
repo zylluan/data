@@ -1,0 +1,8 @@
+{
+  "merge_lora": {
+    "root": "/home/ubuntu/data/",
+    "annotation": "/home/ubuntu/data/merge_lora.jsonl",
+    "data_augment": false,
+    "repeat_time": 1
+  }
+}
